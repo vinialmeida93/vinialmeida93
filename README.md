@@ -1,6 +1,5 @@
 # Hi there, I'm Vinícius and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-
-- :mortar_board: 
+ 
 - :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
 - :man_student: My graduation estimate date: December 2023
 - :man_technologist: I'm currently studying ...
@@ -10,6 +9,7 @@
 ## Currently Learning:
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://e7.pngegg.com/pngimages/270/765/png-clipart-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-thumbnail.png" alt="unity" width="35" height="35"/></a>
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="c#" width="35" height="35"/></a>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c++" width="35" height="35"/></a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>	
