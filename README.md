@@ -1,8 +1,7 @@
 # Hi there, I'm Vinícius and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
  
-- :open_book: I'm studying Technologist in System Analysis and Development at Estácio de Sá University
-- :man_student: My graduation estimate date: December 2023
-- :man_technologist: I'm currently studying ...
+- :open_book: I'm studying Digital Games at IBMR University
+- :man_student: My graduation estimate date: July 2024
 - :pencil: See my resume: <a  href="https://www.canva.com/design/" target="_blank">English</a> | <a  href="https://www.canva.com/design/" target="_blank">Portuguese</a>
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
 
