@@ -7,7 +7,8 @@
 - :pencil: See my resume: <a  href="https://www.canva.com/design/" target="_blank">English</a> | <a  href="https://www.canva.com/design/" target="_blank">Portuguese</a>
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
 
-## Languages and Tools:
+## Currently Learning:
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://e7.pngegg.com/pngimages/270/765/png-clipart-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-thumbnail.png" alt="unity" width="35" height="35"/></a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>	
