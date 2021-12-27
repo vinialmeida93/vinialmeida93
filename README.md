@@ -15,9 +15,8 @@
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio code" width="35" height="35"/></a>
 
 ## Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinialmeida93/) 
-<br>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-0D0D0D?style=flat-square&logo=Gmail&logoColor=white)](mailto:vinibozko@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinialmeida93/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vinibozko@gmail.com)
 
 <!--
 **vinialmeida93/vinialmeida93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
