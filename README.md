@@ -2,6 +2,7 @@
  
 - :open_book: I'm studying Digital Games at IBMR University
 - :man_student: My graduation estimate date: July 2024
+- :briefcase: I'm currently looking for my first job opportunity as a back-end developer
 - :pencil: See my resume: <a  href="https://www.canva.com/design/" target="_blank">English</a> | <a  href="https://www.canva.com/design/" target="_blank">Portuguese</a>
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
 
